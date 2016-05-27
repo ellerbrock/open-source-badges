@@ -1,0 +1,18 @@
+<!--
+  Open Source Badge - Show your love for Open Source
+  https://github.com/ellerbrock/open-source-badge
+-->
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="20">
+  <rect x="0" y="0" width="118" height="18" rx="4" ry="4" fill="#fff" stroke="#565656" stroke-width="1" />
+  <g font-family="DejaVu Sans,Verdana,Geneva,sans-serif">
+    <!-- Open -->
+    <text x="7" y="15" font-size="13" fill="#010101" fill-opacity=".4">Open</text>
+    <text x="7" y="14" font-size="13" fill="#565656">Open</text>
+    <!-- ❤ -->
+    <text x="47" y="17" font-size="17" fill="#010101" fill-opacity=".4">❤</text>
+    <text x="47" y="16" font-size="17" fill="red">❤</text>
+    <!-- Source -->
+    <text x="67" y="15" font-size="13" fill="#010101" fill-opacity=".4">Source</text>
+    <text x="67" y="14" font-size="13" fill="#565656">Source</text>
+  </g>
+</svg>
