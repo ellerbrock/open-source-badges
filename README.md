@@ -1,9 +1,15 @@
-![logo](https://github.frapsoft.com/top/open-source-badge.png)  
+![logo](https://github.frapsoft.com/top/open-source-badge.png?v=102)  
 
-# Open Source Badge [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/)
-## Show your Love for Open Source with a Badge
+# Open Source & Licences Badges [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/)
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-200x33.png?v=102)](https://github.com/ellerbrock/open-source-badge/)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=102)](https://github.com/ellerbrock/open-source-badge/)  [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-200x33.png?v=102)](https://github.com/ellerbrock/open-source-badge/)  
+## OpenSource Badges
+
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-200x33.png?v=102)](https://github.com/ellerbrock/open-source-badge/)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=102)](https://github.com/ellerbrock/open-source-badge/)  [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-200x33.png?v=102)](https://github.com/ellerbrock/open-source-badge/)   
+
+
+## Licence Badges
+
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit-150x33.png?v=102)](https://opensource.org/licenses/mit-license.php) [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl-150x33.png?v=102)](https://opensource.org/licenses/GPL-3.0/)    
 
 We all **love Open Source** and the easiest way to show it comes with this [Open Source Badge](https://github.com/ellerbrock/open-source-badge/).  
 To use it in your own project just choose a version and copy & past the link.  
@@ -16,7 +22,7 @@ Example for a Pull Request:
 
 `[Fish Shell Setup OS X](https://github.com/ellerbrock/tutorial-fish-shell-setup-osx) - Terminal Setup for OS X with Fish Shell, Fisherman, Powerline Fonts and iTerm2.`  
 
-# Version 1
+# Open Source v1
 
 ## SVG
 Default Size: 120x20px  
@@ -63,7 +69,7 @@ Size: 200x33px
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-200x33.png?v=102)](https://github.com/ellerbrock/open-source-badge/)  
 ```  
 
-# Version 2
+# Open Source v2
 
 ## SVG
 Default Size: 120x20px  
@@ -110,7 +116,7 @@ Size: 200x33px
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=102)](https://github.com/ellerbrock/open-source-badge/)  
 ```  
 
-# Version 3
+# Open Source v3
 
 ## SVG
 Default Size: 120x20px  
@@ -155,7 +161,102 @@ Size: 200x33px
 
 ```
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-200x33.png?v=102)](https://github.com/ellerbrock/open-source-badge/)  
+```  
+
+# MIT Licence
+
+## SVG
+Default Size: 90x20px  
+
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://opensource.org/licenses/mit-license.php)  
+
 ```
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://opensource.org/licenses/mit-license.php)   
+```  
+
+
+## PNG
+Default Size: 120x20px  
+
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=102)](https://opensource.org/licenses/mit-license.php)  
+
+```
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=102)](https://opensource.org/licenses/mit-license.php)  
+```  
+
+## PNG in different sizes
+
+Size: 125x28px
+
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit-125x28.png?v=102)](https://opensource.org/licenses/mit-license.php)  
+
+```
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit-125x28.png?v=102)](https://opensource.org/licenses/mit-license.php)  
+```  
+
+Size: 150x33px
+
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit-150x33.png?v=102)](https://opensource.org/licenses/mit-license.php)  
+
+```
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit-150x33.png?v=102)](https://opensource.org/licenses/mit-license.php)  
+```  
+
+Size: 175x39px
+
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit-175x39.png?v=102)](https://opensource.org/licenses/mit-license.php)  
+
+```
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit-175x39.png?v=102)](https://opensource.org/licenses/mit-license.php) 
+```  
+
+# GPL Licence
+
+## SVG
+Default Size: 90x20px  
+
+[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=102)](https://opensource.org/licenses/GPL-3.0/)  
+
+```
+[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=102)](https://opensource.org/licenses/GPL-3.0/)  
+```  
+
+
+## PNG
+Default Size: 120x20px  
+
+[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.png?v=102)](https://opensource.org/licenses/GPL-3.0/)  
+
+```
+[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.png?v=102)](https://opensource.org/licenses/GPL-3.0/)  
+```  
+
+## PNG in different sizes
+
+Size: 125x28px
+
+[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl-125x28.png?v=102)](https://opensource.org/licenses/GPL-3.0/)  
+
+```
+[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl-125x28.png?v=102)](https://opensource.org/licenses/GPL-3.0/)    
+```  
+
+Size: 150x33px
+
+[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl-150x33.png?v=102)](https://opensource.org/licenses/GPL-3.0/)  
+
+```
+[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl-150x33.png?v=102)](https://opensource.org/licenses/GPL-3.0/)    
+```  
+
+Size: 175x39px
+
+[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl-175x39.png?v=102)](https://opensource.org/licenses/GPL-3.0/)  
+
+```
+[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl-175x39.png?v=102)](https://opensource.org/licenses/GPL-3.0/)   
+```  
+
 ### Contact / Social Media
 
 *Get the latest News about Web Development, Open Source, Tooling, Server & Security*
