@@ -3,7 +3,8 @@
 Badges to show your love for Open Source and the Community.  
 
 You may also like the [TypeScript Badges](https://github.com/ellerbrock/typescript-badges/) for Web Developers.  
-[![TypeScript](https://badges.frapsoft.com/typescript/awesome/typescript.png?v=100)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.png?v=100)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.png?v=100)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/version/typescript-v1.9-dev.svg)](https://github.com/ellerbrock/typescript-badges/)  
+
+[![TypeScript](https://badges.frapsoft.com/typescript/awesome/typescript.png?v=100)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.png?v=100)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.png?v=100)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/version/typescript-v19.svg?v=100)](https://github.com/ellerbrock/typescript-badges/)  
 
 ## OpenSource Badges
 
