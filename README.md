@@ -1,46 +1,19 @@
-![logo](https://github.frapsoft.com/top/open-source-badge.png?v=102)  
+# Open Source & Licences Badges [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/)
 
-# Open Source & Licences Badges [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/)
+Badges to show your love for Open Source and the Community.  
+
+You may also like the [TypeScript Badges](https://github.com/ellerbrock/typescript-badges/) for Web Developers.  
+
+[![TypeScript](https://badges.frapsoft.com/typescript/awesome/typescript.png?v=100)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.png?v=100)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.png?v=100)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/version/typescript-v19.svg?v=100)](https://github.com/ellerbrock/typescript-badges/)  
 
 ## OpenSource Badges
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-200x33.png?v=102)](https://github.com/ellerbrock/open-source-badge/)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=102)](https://github.com/ellerbrock/open-source-badge/)  [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-200x33.png?v=102)](https://github.com/ellerbrock/open-source-badge/)   
 
-
 ## Licence Badges
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit-150x33.png?v=102)](https://opensource.org/licenses/mit-license.php) [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl-150x33.png?v=102)](https://opensource.org/licenses/GPL-3.0/)  
 
-## I hate IE Badge
-[![I hate you IE](https://badges.frapsoft.com/ie/v1/i-hate-you-ie-175x51.png?v=102)](https://github.com/ellerbrock/open-source-badge/)  
-
-We all **love Open Source** and the easiest way to show it comes with this [Open Source Badge](https://github.com/ellerbrock/open-source-badge/).  
-To use it in your own project just choose a version and copy & past the link.  
-
-In case you link back to this repository you are free to make a pull request to the [Open Source Projects List](https://github.com/ellerbrock/open-source-badge/OPEN-SOURCE-PROJECTS.md) with a link and short description to your project which uses the open source badge.  
-
-Example for a Pull Request:  
-
-[Fish Shell Setup OS X](https://github.com/ellerbrock/tutorial-fish-shell-setup-osx) - Terminal Setup for OS X with Fish Shell, Fisherman, Powerline Fonts and iTerm2.
-
-`[Fish Shell Setup OS X](https://github.com/ellerbrock/tutorial-fish-shell-setup-osx) - Terminal Setup for OS X with Fish Shell, Fisherman, Powerline Fonts and iTerm2.`  
-
-# Open Source v1
-
-## SVG
-Default Size: 120x20px  
-
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)  
-
-```
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)    
-```  
-
-
-## PNG
-Default Size: 120x20px  
-
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=102)](https://github.com/ellerbrock/open-source-badge/)  
 
 ```
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=102)](https://github.com/ellerbrock/open-source-badge/)    
@@ -258,43 +231,6 @@ Size: 175x39px
 
 ```
 [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl-175x39.png?v=102)](https://opensource.org/licenses/GPL-3.0/)   
-```  
-
-# IE sucks!
-
-## PNG
-Default Size: 110x32px  
-
-[![I hate you IE](https://badges.frapsoft.com/ie/v1/i-hate-you-ie.png?v=102)](https://github.com/ellerbrock/open-source-badge/)
-
-```
-[![I hate you IE](https://badges.frapsoft.com/ie/v1/i-hate-you-ie.png?v=102)](https://github.com/ellerbrock/open-source-badge/)
-```  
-
-## PNG in different sizes
-
-Size: 150x44px
-
-[![I hate you IE](https://badges.frapsoft.com/ie/v1/i-hate-you-ie-150x44.png?v=102)](https://github.com/ellerbrock/open-source-badge/)
-
-```
-[![I hate you IE](https://badges.frapsoft.com/ie/v1/i-hate-you-ie-150x44.png?v=102)](https://github.com/ellerbrock/open-source-badge/)
-```  
-
-Size: 175x39px
-
-[![I hate you IE](https://badges.frapsoft.com/ie/v1/i-hate-you-ie-175x51.png?v=102)](https://github.com/ellerbrock/open-source-badge/)
-
-```
-[![I hate you IE](https://badges.frapsoft.com/ie/v1/i-hate-you-ie-175x51.png?v=102)](https://github.com/ellerbrock/open-source-badge/)
-```  
-
-Size: 200x58px
-
-[![I hate you IE](https://badges.frapsoft.com/ie/v1/i-hate-you-ie-200x58.png?v=102)](https://github.com/ellerbrock/open-source-badge/)
-
-```
-[![I hate you IE](https://badges.frapsoft.com/ie/v1/i-hate-you-ie-200x58.png?v=102)](https://github.com/ellerbrock/open-source-badge/)
 ```
 
 
