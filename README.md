@@ -4,17 +4,17 @@ Badges to show your love for Open Source and the Community.
 
 ### OpenSource Badges
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-200x33.png?v=102)](https://github.com/ellerbrock/open-source-badge/)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=102)](https://github.com/ellerbrock/open-source-badge/)  [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-200x33.png?v=102)](https://github.com/ellerbrock/open-source-badge/)   
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badge/)   
 
 ### Licence Badges
 
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit-150x33.png?v=102)](https://opensource.org/licenses/mit-license.php) [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl-150x33.png?v=102)](https://opensource.org/licenses/GPL-3.0/)  
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php) [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/)  
 
 ---
 
 You may also like the [TypeScript Badges](https://github.com/ellerbrock/typescript-badges/) for Web Developers.  
 
-[![TypeScript](https://badges.frapsoft.com/typescript/awesome/typescript.png?v=100)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.png?v=100)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.png?v=100)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/version/typescript-v19.svg?v=100)](https://github.com/ellerbrock/typescript-badges/)  
+[![TypeScript](https://badges.frapsoft.com/typescript/awesome/typescript.png?v=103)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.png?v=103)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.png?v=103)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/version/typescript-next.svg?v=103)](https://github.com/ellerbrock/typescript-badges/)  
 
 ---
 
@@ -23,45 +23,45 @@ You may also like the [TypeScript Badges](https://github.com/ellerbrock/typescri
 ## SVG
 Default Size: 120x20px  
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)  
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)  
 
 ```
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)    
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)    
 ```  
 
 ## PNG in different sizes
 
 Default Size: 120x20px
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=102)](https://github.com/ellerbrock/open-source-badge/)    
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badge/)    
 
 ```
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=102)](https://github.com/ellerbrock/open-source-badge/)    
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badge/)    
 ```  
 
 
 Size: 150x22px
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-150x25.png?v=102)](https://github.com/ellerbrock/open-source-badge/)  
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-150x25.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
 
 ```
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-150x25.png?v=102)](https://github.com/ellerbrock/open-source-badge/)  
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-150x25.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
 ```  
 
 Size: 175x29px
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-175x29.png?v=102)](https://github.com/ellerbrock/open-source-badge/)  
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-175x29.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
 
 ```
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-175x29.png?v=102)](https://github.com/ellerbrock/open-source-badge/)  
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-175x29.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
 ```  
 
 Size: 200x33px
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-200x33.png?v=102)](https://github.com/ellerbrock/open-source-badge/)  
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
 
 ```
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-200x33.png?v=102)](https://github.com/ellerbrock/open-source-badge/)  
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
 ```  
 
 # Open Source v2
@@ -69,46 +69,46 @@ Size: 200x33px
 ## SVG
 Default Size: 120x20px  
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)  
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)  
 
 ```
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)    
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)    
 ```  
 
 
 ## PNG
 Default Size: 120x20px  
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=102)](https://github.com/ellerbrock/open-source-badge/)  
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
 
 ```
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=102)](https://github.com/ellerbrock/open-source-badge/)    
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badge/)    
 ```  
 
 ## PNG in different sizes
 
 Size: 150x22px
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-150x25.png?v=102)](https://github.com/ellerbrock/open-source-badge/)  
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-150x25.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
 
 ```
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-150x25.png?v=102)](https://github.com/ellerbrock/open-source-badge/)  
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-150x25.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
 ```  
 
 Size: 175x29px
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-175x29.png?v=102)](https://github.com/ellerbrock/open-source-badge/)  
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-175x29.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
 
 ```
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-175x29.png?v=102)](https://github.com/ellerbrock/open-source-badge/)  
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-175x29.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
 ```  
 
 Size: 200x33px
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=102)](https://github.com/ellerbrock/open-source-badge/)  
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
 
 ```
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=102)](https://github.com/ellerbrock/open-source-badge/)  
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
 ```  
 
 # Open Source v3
@@ -116,46 +116,46 @@ Size: 200x33px
 ## SVG
 Default Size: 120x20px  
 
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)  
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)  
 
 ```
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)    
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)    
 ```  
 
 
 ## PNG
 Default Size: 120x20px  
 
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=102)](https://github.com/ellerbrock/open-source-badge/)  
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
 
 ```
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=102)](https://github.com/ellerbrock/open-source-badge/)    
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badge/)    
 ```  
 
 ## PNG in different sizes
 
 Size: 150x22px
 
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-150x25.png?v=102)](https://github.com/ellerbrock/open-source-badge/)  
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-150x25.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
 
 ```
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-150x25.png?v=102)](https://github.com/ellerbrock/open-source-badge/)  
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-150x25.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
 ```  
 
 Size: 175x29px
 
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-175x29.png?v=102)](https://github.com/ellerbrock/open-source-badge/)  
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-175x29.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
 
 ```
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-175x29.png?v=102)](https://github.com/ellerbrock/open-source-badge/)  
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-175x29.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
 ```  
 
 Size: 200x33px
 
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-200x33.png?v=102)](https://github.com/ellerbrock/open-source-badge/)  
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
 
 ```
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-200x33.png?v=102)](https://github.com/ellerbrock/open-source-badge/)  
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
 ```  
 
 # MIT Licence
@@ -163,46 +163,46 @@ Size: 200x33px
 ## SVG
 Default Size: 90x20px  
 
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://opensource.org/licenses/mit-license.php)  
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)  
 
 ```
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://opensource.org/licenses/mit-license.php)   
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)   
 ```  
 
 
 ## PNG
 Default Size: 120x20px  
 
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=102)](https://opensource.org/licenses/mit-license.php)  
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)  
 
 ```
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=102)](https://opensource.org/licenses/mit-license.php)  
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)  
 ```  
 
 ## PNG in different sizes
 
 Size: 125x28px
 
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit-125x28.png?v=102)](https://opensource.org/licenses/mit-license.php)  
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit-125x28.png?v=103)](https://opensource.org/licenses/mit-license.php)  
 
 ```
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit-125x28.png?v=102)](https://opensource.org/licenses/mit-license.php)  
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit-125x28.png?v=103)](https://opensource.org/licenses/mit-license.php)  
 ```  
 
 Size: 150x33px
 
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit-150x33.png?v=102)](https://opensource.org/licenses/mit-license.php)  
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit-150x33.png?v=103)](https://opensource.org/licenses/mit-license.php)  
 
 ```
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit-150x33.png?v=102)](https://opensource.org/licenses/mit-license.php)  
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit-150x33.png?v=103)](https://opensource.org/licenses/mit-license.php)  
 ```  
 
 Size: 175x39px
 
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit-175x39.png?v=102)](https://opensource.org/licenses/mit-license.php)  
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit-175x39.png?v=103)](https://opensource.org/licenses/mit-license.php)  
 
 ```
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit-175x39.png?v=102)](https://opensource.org/licenses/mit-license.php) 
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit-175x39.png?v=103)](https://opensource.org/licenses/mit-license.php)
 ```  
 
 # GPL Licence
@@ -210,48 +210,47 @@ Size: 175x39px
 ## SVG
 Default Size: 90x20px  
 
-[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=102)](https://opensource.org/licenses/GPL-3.0/)  
+[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=103)](https://opensource.org/licenses/GPL-3.0/)  
 
 ```
-[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=102)](https://opensource.org/licenses/GPL-3.0/)  
+[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=103)](https://opensource.org/licenses/GPL-3.0/)  
 ```  
 
 
 ## PNG
 Default Size: 120x20px  
 
-[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.png?v=102)](https://opensource.org/licenses/GPL-3.0/)  
+[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/)  
 
 ```
-[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.png?v=102)](https://opensource.org/licenses/GPL-3.0/)  
+[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/)  
 ```  
 
 ## PNG in different sizes
 
 Size: 125x28px
 
-[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl-125x28.png?v=102)](https://opensource.org/licenses/GPL-3.0/)  
+[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl-125x28.png?v=103)](https://opensource.org/licenses/GPL-3.0/)  
 
 ```
-[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl-125x28.png?v=102)](https://opensource.org/licenses/GPL-3.0/)    
+[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl-125x28.png?v=103)](https://opensource.org/licenses/GPL-3.0/)    
 ```  
 
 Size: 150x33px
 
-[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl-150x33.png?v=102)](https://opensource.org/licenses/GPL-3.0/)  
+[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl-150x33.png?v=103)](https://opensource.org/licenses/GPL-3.0/)  
 
 ```
-[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl-150x33.png?v=102)](https://opensource.org/licenses/GPL-3.0/)    
+[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl-150x33.png?v=103)](https://opensource.org/licenses/GPL-3.0/)    
 ```  
 
 Size: 175x39px
 
-[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl-175x39.png?v=102)](https://opensource.org/licenses/GPL-3.0/)  
+[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl-175x39.png?v=103)](https://opensource.org/licenses/GPL-3.0/)  
 
 ```
-[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl-175x39.png?v=102)](https://opensource.org/licenses/GPL-3.0/)   
+[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl-175x39.png?v=103)](https://opensource.org/licenses/GPL-3.0/)   
 ```
-
 
 ### Contact / Social Media
 
