@@ -7,7 +7,7 @@
     <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
     <stop offset="1" stop-opacity=".1"/>
   </linearGradient>
-  <g mask="url(#m1)">
+  <g>
     <rect x="0" y="0"  width="90" height="20" rx="3" ry="3"  style="fill:#555"/>
     <rect x="60" y="0" width="10" height="20" style="fill:#007ec6"/>
     <rect x="70" y="0" width="30" height="20" rx="3" ry="3" style="fill:#007ec6"/>
@@ -18,7 +18,7 @@
       <text x="8" y="15" fill="#DDD" fill-opacity=".4">licence</text>
       <text x="8" y="14">licence</text>
     </g>
-    <g >
+    <g>
       <text x="68" y="15" fill="#DDD" fill-opacity=".4">GPL</text>
       <text x="68" y="14">GPL</text>
     </g>

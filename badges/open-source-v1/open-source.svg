@@ -7,7 +7,7 @@
     <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
     <stop offset="1" stop-opacity=".1"/>
   </linearGradient>
-  <g mask="url(#m1)">
+  <g>
     <rect x="0" y="0"  width="95" height="20" rx="4" ry="4"  style="fill:#555"/>
     <rect x="90" y="0" width="25" height="20" style="fill:#46BC99"/>
     <rect x="110" y="0" width="10" height="20" rx="4" ry="4" style="fill:#46BC99"/>
